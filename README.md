@@ -1,2 +1,2 @@
-# algorithms
-The collection of different algorithms.
+# Algorithms
+Коллекция различных алгоритмов из учебных задач, а также решения задач с сайта LeetCode и CodeRun.
